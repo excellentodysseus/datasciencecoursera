@@ -1,4 +1,5 @@
-
+#Project 2
+#creates and solves cached matrix
 
 makeCacheMatrix <- function(x = matrix()){
   inverse <- NULL
